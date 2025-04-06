@@ -1,4 +1,4 @@
-# BitcoinPricePrediction
+# Bitcoin Price Prediction
 
 In this project, I implemented Linear Regression, Random Forest, and XGBoost models to predict Bitcoin prices. Among these models, Linear Regression achieved the lowest Mean Squared Error, followed by Random Forest, with XGBoost showing the highest error. This analysis highlights the effectiveness of simpler models for this dataset, though further tuning or feature engineering could enhance performance.
 
